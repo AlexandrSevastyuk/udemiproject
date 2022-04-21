@@ -18,7 +18,7 @@ const personalMoviDB = {
     privat : false
 };
 
-
+let a;
 
 function rememberMyFilms () {
     for (let i=0; i<2; i++) {
